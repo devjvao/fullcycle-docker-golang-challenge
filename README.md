@@ -1,3 +1,3 @@
-### Docker challenge with Golang proposed by Full Cycle
+### Full Cycle challenge
 
-Image: https://hub.docker.com/r/joaoalmeida200/fullcycle-golang-challenge
+The image is available on https://hub.docker.com/r/joaoalmeida200/fullcycle-golang-challenge.
